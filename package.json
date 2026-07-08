@@ -1,0 +1,23 @@
+{
+  "name": "b2410723_tran_minh_hung_backend_2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Tran Minh Hung B2410723",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^10.6.0",
+    "eslint-config-prettier": "^10.1.8",
+    "nodemon": "^3.1.14",
+    "prettier": "^3.9.4"
+  }
+}
